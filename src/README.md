@@ -24,14 +24,6 @@ This API fetches and stores data from JSONPlaceholder, supports user and post ma
 
 ---
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ts-node-mongo-api.git
-cd ts-node-mongo-api
-
 
 ## Set environment variables
 
